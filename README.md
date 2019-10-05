@@ -5,5 +5,6 @@ A simple web server node template
 ```Bash
 $ git clone https://github.com/raymag/node_template.git
 $ cd node_template
+$ npm install
 $ node index.js
 ```
