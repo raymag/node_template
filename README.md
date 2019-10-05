@@ -8,3 +8,5 @@ $ cd node_template
 $ npm install
 $ node index.js
 ```
+
+![Node Template](https://i.imgur.com/JlQVuoR.jpg)
